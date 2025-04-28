@@ -1,0 +1,23 @@
+.intro {
+    height: 100px;
+    background-color: #1F2937;
+    font-family: 'Roboto',sans-serif;
+    color: white;
+    margin: auto;
+    display: flex;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 200px 10px 200px;
+
+}
+    
+}
+
+
+
+}

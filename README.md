@@ -1,1 +1,1 @@
-# landing-page
+This page is based off of a project assignment from The Odin Project website. This assignment hightlights skills learned so far in html and css with our most recent skill learned being the flex element in css# landing-page
