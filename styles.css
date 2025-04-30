@@ -1,23 +1,43 @@
 .intro {
     height: 100px;
-    background-color: #1F2937;
     font-family: 'Roboto',sans-serif;
     color: white;
     margin: auto;
+    border-style: solid;
+    background-color: #1F2937;
+    border-color: blue;
+
+}
+
+.container-one {
     display: flex;
+    border-color: yellow;
+    border-style: solid;
+    justify-content: space-evenly;
+    background-color: #1F2937;
+    padding: 10px 10px 10px 10px;
 
 }
 
-.container {
+.links {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 200px 10px 200px;
-
+    justify-content: right;
 }
-    
+.intro-info {
+    background-color: #1F2937;
+    display: flex;
+    color: #F9FAF8;
+}
+
+.intro-info, p {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
 }
 
 
 
-}
